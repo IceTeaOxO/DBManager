@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['0']
+
+roboflow:
+  workspace: tattoo-khtqg
+  project: 12-2yhgv
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/tattoo-khtqg/12-2yhgv/dataset/1
